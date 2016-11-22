@@ -1,5 +1,5 @@
 # Lunar-Landing
-Proyecto Lunar Landing
+##Proyecto Lunar Landing
 Esta simple página está basada en una imagen de fondo, dos menús laterales y una nave que posteriormente se animará con algún lenguaje de lado del servidor, como JS.
 La página index.html, la principal, contiene enlaces a la página de estilos (styles.css) y a dos páginas css con adaptaciones para móviles y tablets.
 El panel de la izquierda (Control panel) contiene estadísticas sobre la nave y el derecho (Game options) contiene la opción para pausar el movimiento de la nave más adelante cuando la anime. Los dos menús están con estilos (ul.menuVert1 li) que funcionan sobre las dos listas.
